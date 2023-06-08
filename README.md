@@ -30,11 +30,12 @@
 https://thaliaraujo.github.io/alura-books
 
 <p>
-<img align="left" width="450px" style="margin-top:-20px" src="https://raw.githubusercontent.com/Thaliaraujo/alura-books/main/assets/alura-book.png">
+<img align="left" width="360px" style="margin-top:-20px" src="https://raw.githubusercontent.com/Thaliaraujo/alura-books/main/assets/alura-book.png">
 </p>
 <p>
- <video align="left" width="450px" style="margin-top:-20px" src=""></video>
+<img align="left" width="450px" style="margin-top:-20px" src="https://raw.githubusercontent.com/Thaliaraujo/alura-books/main/assets/alura-book-tablet.png">
 </p>
+
 
  
 <div dsplay="inline-block">
