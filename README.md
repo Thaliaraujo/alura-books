@@ -33,7 +33,7 @@ https://thaliaraujo.github.io/alura-books
 <img align="left" width="360px" style="margin-top:-20px" src="https://raw.githubusercontent.com/Thaliaraujo/alura-books/main/assets/alura-book.png">
 </p>
 <p>
-<img align="left" width="420px" style="margin-top:-20px" src="https://raw.githubusercontent.com/Thaliaraujo/alura-books/main/assets/alura-book-tablet.png">
+<img align="left" width="425px" style="margin-top:-20px" src="https://raw.githubusercontent.com/Thaliaraujo/alura-books/main/assets/alura-book-tablet.png">
 </p>
 
 
