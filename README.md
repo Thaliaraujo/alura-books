@@ -9,7 +9,7 @@
  <li><p>HTML</p></li>
  <li><p>CSS</p></li>
  <li><p>SwiperJS</p></li>
- <li><p>Media Query</p></li>
+ <li><p>Media Queries</p></li>
  <li><p>Mobile-First</p></li>
 </ul>
 
